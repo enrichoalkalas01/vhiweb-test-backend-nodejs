@@ -14,6 +14,10 @@ This is a basic structure for a scalable Node.js backend using Express.js. The p
 - [License](#license)
 
 ## Features
+- Authentication For Admin & Vendors
+- Vendors Registration & Approval
+- Product Catalog For Vendors
+
 - Modular folder structure following best practices
 - Middleware for authentication and error handling
 - Service layer for handling business logic

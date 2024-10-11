@@ -14,6 +14,7 @@ dotenv.config({ path: __dirname + '/.env'})
 
 const host = "0.0.0.0"
 const port = process.env.PORT || 5000
+process.env.PORT = port
 
 // Config Setup
 app.use(helmet())
